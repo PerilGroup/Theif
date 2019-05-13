@@ -20,8 +20,7 @@ Easy,
 ```
 -----------
 ### Resources:
-Subdomain TakeOver Basics:  
-[The Basics](https://0xpatrik.com/subdomain-takeover-basics/)
+Subdomain TakeOver Basics: [The Basics](https://0xpatrik.com/subdomain-takeover-basics/)
 
 HackerOne's TakeOver Guide:
 [The Guide](https://www.hackerone.com/blog/Guide-Subdomain-Takeovers)
