@@ -8,8 +8,7 @@ Theif is a subdomain takeover tool made in BASH. Using a few of the tools below,
 we're able to fully automate the use of 2 different tools to create one great wrapper!
 
 Why: 
-Subdomain Hijacking has become popular amoung bug bounties, or just another fun trade to add to your arsenal.
-
+Subdomain Hijacking has become popular amoung bug bounties, etc.
 How: 
 Easy, 
 0. git clone https://github.com/perilgroup/theif.git
