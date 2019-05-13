@@ -22,10 +22,13 @@ Easy,
 ### Resources:
 Subdomain TakeOver Basics:  
 [The Basics](https://0xpatrik.com/subdomain-takeover-basics/)
+
 HackerOne's TakeOver Guide:
 [The Guide](https://www.hackerone.com/blog/Guide-Subdomain-Takeovers)
+
 TakeOver POC List (Check to see if you can actually take it):
 [Can-I-TakeOver](https://github.com/EdOverflow/can-i-take-over-xyz)
+
 #### Tools wrapped:
 * [Subjack](https://github.com/haccer/subjack)
 * [Sublist3r](https://github.com/aboul3la/Sublist3r/)
