@@ -13,8 +13,7 @@ How:
 Easy, 
 0. git clone https://github.com/perilgroup/theif.git
 1. chmod +x theif.sh
-2. ./thief.sh [domain.com]
-(Doesnt need http nor https.)
+2. ./thief.sh
 --
 [See resource section for more information.]
 ```
